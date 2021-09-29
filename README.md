@@ -9,7 +9,7 @@
 
 * 🌱 I’m currently learning React with Czechitas
 
-* 👯 I’m looking for part time job
+* 👯 I’m looking for part time job in IT anything connected with web development
 
 <!--
 **sandramark/sandramark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
