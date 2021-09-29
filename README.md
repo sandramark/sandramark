@@ -4,8 +4,8 @@
 
 * 📫 You can find more information about me (and contact me) here:
 
-** https://sandramark.github.io/portfolio/
-** https://www.linkedin.com/in/sandramark/
+  * https://sandramark.github.io/portfolio/
+  * https://www.linkedin.com/in/sandramark/
 
 * 🌱 I’m currently learning React with Czechitas
 
