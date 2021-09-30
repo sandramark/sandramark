@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* I'm Junior Frontend Developer | HTML/CSS coder and IT girl
+* I'm Junior Frontend Developer | HTML/CSS coder and also an enthusiastic IT girl
 
 * 📫 You can find more information about me (and contact me) here:
 
